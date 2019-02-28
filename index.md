@@ -87,6 +87,9 @@ Finally, this workshop is possible thanks to the collaboration of the following 
   <a href="http://inab.certh.gr" title="INAB|CERTH, Greece">
     <img style="margin-right:50px" alt="INAB" src="fig/INAB-logo.png" width="150"/>
   </a>
+  <a href="https://www.pdc.kth.se/" title="PDC, KTH, Sweden">
+    <img style="margin-right:50px" alt="PDC" src="fig/pdc_logo.png" width="120"/>
+  </a>
 </div>
 
 
