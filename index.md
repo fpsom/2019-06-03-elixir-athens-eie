@@ -240,6 +240,9 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endif %}
 
+[ELIXIR Post-workshop Survey](https://www.surveymonkey.co.uk/r/BK7MGHZ)
+
+
 <hr/>
 
 
